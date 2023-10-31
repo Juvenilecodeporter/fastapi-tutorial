@@ -80,6 +80,8 @@
 #### 2.4 Starlette，Pydantic 与 FastAPI 框架是什么关系？
 
 介绍  Starlette 是个什么项目；IDE 开发时 Python 3.5+ 版本的 "type hints" 的好处：简短、直观和标准的 Python 类型声明；介绍 Pydantic 包，FastAPI  项目的开发为什么要使用 Pydantic
+![image](https://github.com/Juvenilecodeporter/fastapi-tutorial/assets/141379138/1f70b06b-06ef-41cc-bb80-827011f6e629)
+
 
 #### 2.5 ASGI 服务 Uvicorn 和 Hypercorn 介绍
 
